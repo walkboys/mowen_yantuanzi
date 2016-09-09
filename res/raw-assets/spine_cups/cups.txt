@@ -1,0 +1,13 @@
+
+cups.png
+size: 128,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yan_0008_cup
+  rotate: false
+  xy: 2, 2
+  size: 120, 133
+  orig: 120, 133
+  offset: 0, 0
+  index: -1

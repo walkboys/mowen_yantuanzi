@@ -1,0 +1,83 @@
+
+yan.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+yan_body
+  rotate: false
+  xy: 359, 148
+  size: 94, 106
+  orig: 94, 106
+  offset: 0, 0
+  index: -1
+yan_eye
+  rotate: false
+  xy: 220, 76
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+yan_face
+  rotate: false
+  xy: 85, 2
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+yan_foot_l
+  rotate: false
+  xy: 186, 62
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+yan_foot_r
+  rotate: false
+  xy: 85, 20
+  size: 34, 36
+  orig: 34, 36
+  offset: 0, 0
+  index: -1
+yan_grass
+  rotate: false
+  xy: 2, 8
+  size: 81, 48
+  orig: 81, 48
+  offset: 0, 0
+  index: -1
+yan_hand_l
+  rotate: false
+  xy: 455, 201
+  size: 50, 53
+  orig: 50, 53
+  offset: 0, 0
+  index: -1
+yan_hand_r
+  rotate: false
+  xy: 455, 147
+  size: 50, 52
+  orig: 50, 52
+  offset: 0, 0
+  index: -1
+yan_hat
+  rotate: false
+  xy: 2, 58
+  size: 182, 196
+  orig: 182, 196
+  offset: 0, 0
+  index: -1
+yan_head
+  rotate: false
+  xy: 186, 102
+  size: 171, 152
+  orig: 171, 152
+  offset: 0, 0
+  index: -1
+yan_mouth
+  rotate: false
+  xy: 359, 129
+  size: 39, 17
+  orig: 39, 17
+  offset: 0, 0
+  index: -1
